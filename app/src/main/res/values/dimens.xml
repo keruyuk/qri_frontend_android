@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">30dp</dimen>
+    <dimen name="activity_vertical_margin">30dp</dimen>
+	<dimen name="textsize_small">14sp</dimen>
+	<dimen name="textsize_micro">12sp</dimen>
+	<dimen name="padding_text_bottom">5dip</dimen>
+	<dimen name="padding_text_top">10dip</dimen>
+
+    <dimen name="zxing_standard_padding">8dip</dimen>
+    <dimen name="zxing_half_padding">4dip</dimen>
+</resources>

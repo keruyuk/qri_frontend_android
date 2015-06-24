@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   
+    <color name="titlebackgroundcolor">#3232CD</color>
+    <color name="titletextcolor">#FFFF00</color>
+    <color name="orangekmu">#FF6600</color>
+    <color name="materialOrange">#FF6600</color>
+    <color name="materialWhite">#FFFFFF</color>
+    <color name="whiteGray">#F5F5F5</color>
+
+    <color name="zxing_contents_text">#ff000000</color>
+    <color name="zxing_encode_view">#ffffffff</color>
+    <color name="zxing_possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="zxing_result_minor_text">#ffc0c0c0</color>
+    <color name="zxing_result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="zxing_result_text">#ffffffff</color>
+    <color name="zxing_result_view">#b0000000</color>
+    <color name="zxing_status_text">#ffffffff</color>
+    <color name="zxing_transparent">#00000000</color>
+    <color name="zxing_viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="zxing_viewfinder_mask">#60000000</color>
+</resources>
